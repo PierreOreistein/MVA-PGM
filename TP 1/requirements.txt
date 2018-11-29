@@ -1,0 +1,13 @@
+This jupyter notebook needs the latest version of:
+- numpy
+- matplotlib
+- seaborn
+
+Also, you need to have the following folders hierarchy:
+
+- Images
+   |__ A: saving folder for all the images related to the dataset A
+   |__ B: saving folder for all the images related to the dataset B
+   |__ C: saving folder for all the images related to the dataset C
+
+- Data: contains all the datasets
